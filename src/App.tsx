@@ -1,11 +1,10 @@
-import React from "react"
-import Button from "./lib/Button";
-import Icon from "./lib/Icon";
+import React from 'react'
+import Icon from './lib/Icon'
 
 const App = () => {
-    return (
+  return (
         <Icon name="wechat"/>
-    )
+  )
 }
 
 export default App

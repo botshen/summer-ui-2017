@@ -1,7 +1,7 @@
 import React from 'react'
 
 const Button: React.FC = () => {
-    return <button>hello</button>
+  return <button>hello</button>
 }
 
 export default Button
