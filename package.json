@@ -1,7 +1,7 @@
 {
-  "name": "pkg-name",
+  "name": "summer-ui-2017",
   "type": "module",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "packageManager": "pnpm@7.9.0",
   "description": "",
   "author": "Anthony Fu <anthonyfu117@hotmail.com>",
@@ -60,5 +60,11 @@
     "unbuild": "^0.8.8",
     "vite": "^3.0.7",
     "vitest": "^0.22.0"
+  },
+  "dependencies": {
+    "@types/react": "^18.0.18",
+    "@types/react-dom": "^18.0.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   }
 }
