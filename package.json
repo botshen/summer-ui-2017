@@ -1,7 +1,7 @@
 {
   "name": "summer-ui-2017",
   "type": "module",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "packageManager": "pnpm@7.9.0",
   "description": "",
   "author": "Shenxin <363088847@qq.com>",
@@ -38,7 +38,7 @@
   ],
   "scripts": {
     "build": "unbuild",
-    "dev": "unbuild --stub",
+    "dev": "vite",
     "lint": "eslint .",
     "prepublishOnly": "nr build",
     "release": "bumpp && npm publish",
@@ -70,5 +70,4 @@
     "vite": "^3.0.7",
     "vitest": "^0.22.0"
   }
-
 }
