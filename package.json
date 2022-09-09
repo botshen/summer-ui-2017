@@ -1,7 +1,7 @@
 {
   "name": "summer-ui-2017",
   "type": "module",
-  "version": "0.0.6-beta.4",
+  "version": "0.0.6-beta.5",
   "packageManager": "pnpm@7.9.0",
   "description": "",
   "author": "Shenxin <363088847@qq.com>",
@@ -34,7 +34,7 @@
     }
   },
   "files": [
-    "dist"
+    "dist/**"
   ],
   "scripts": {
     "build": "unbuild",
